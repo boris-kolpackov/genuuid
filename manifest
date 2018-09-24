@@ -7,4 +7,4 @@ url: https://example.org/genuuid
 email: boris@codesynthesis.com
 depends: * build2 >= 0.8.0-
 depends: * bpkg >= 0.8.0-
-depends: libstud-uuid
+depends: libstud-uuid ^1.0.0
