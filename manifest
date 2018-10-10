@@ -1,9 +1,9 @@
 : 1
 name: genuuid
-version: 0.1.0-a.0.z
-summary: genuuid executable
+version: 1.0.0
+summary: Portable UUID generator utility
 license: MIT
-url: https://example.org/genuuid
+url: https://github.com/boris-kolpackov/genuuid
 email: boris@codesynthesis.com
 depends: * build2 >= 0.8.0-
 depends: * bpkg >= 0.8.0-
