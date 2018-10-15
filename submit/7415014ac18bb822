@@ -1,0 +1,5 @@
+: 1
+name: genuuid
+version: 1.0.0
+summary: Portable UUID generator utility
+license: MIT
