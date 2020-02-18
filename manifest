@@ -1,6 +1,6 @@
 : 1
 name: genuuid
-version: 1.0.0
+version: 1.0.0+1
 summary: Portable UUID generator utility
 license: MIT
 url: https://github.com/boris-kolpackov/genuuid
